@@ -28,3 +28,6 @@
 [submodule "FeatureExtractor/thumos14-i3d"]
 	path = FeatureExtractor/thumos14-i3d
 	url = https://github.com/demianzhang/thumos14-i3d.git
+[submodule "arXiv-channel-distillation"]
+	path = arXiv-channel-distillation
+	url = https://github.com/zhouzaida/channel-distillation.git
