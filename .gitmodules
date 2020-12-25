@@ -31,3 +31,6 @@
 [submodule "arXiv-channel-distillation"]
 	path = arXiv-channel-distillation
 	url = https://github.com/zhouzaida/channel-distillation.git
+[submodule "AAAI2020-BaSNet-pytorch"]
+	path = AAAI2020-BaSNet-pytorch
+	url = https://github.com/Pilhyeon/BaSNet-pytorch.git
