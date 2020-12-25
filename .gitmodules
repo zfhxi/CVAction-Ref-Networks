@@ -1,0 +1,3 @@
+[submodule "CMCS"]
+	path = CMCS
+	url = https://github.com/Finspire13/CMCS-Temporal-Action-Localization
