@@ -19,3 +19,12 @@
 [submodule "VisualUtils/grad-cam-pytorch"]
 	path = VisualUtils/grad-cam-pytorch
 	url = https://github.com/kazuto1011/grad-cam-pytorch.git
+[submodule "PaperLists/CVPR2020-Code"]
+	path = PaperLists/CVPR2020-Code
+	url = https://github.com/amusi/CVPR2020-Code.git
+[submodule "FeatureExtractor/pytorch-i3d-feature-extraction"]
+	path = FeatureExtractor/pytorch-i3d-feature-extraction
+	url = https://github.com/Finspire13/pytorch-i3d-feature-extraction.git
+[submodule "FeatureExtractor/thumos14-i3d"]
+	path = FeatureExtractor/thumos14-i3d
+	url = https://github.com/demianzhang/thumos14-i3d.git
