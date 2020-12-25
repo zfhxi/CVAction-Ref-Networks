@@ -1,3 +1,21 @@
-[submodule "CMCS"]
-	path = CMCS
-	url = https://github.com/Finspire13/CMCS-Temporal-Action-Localization
+[submodule "CVPR2019-CMCS"]
+	path = CVPR2019-CMCS
+	url = https://github.com/Finspire13/CMCS-Temporal-Action-Localization.git
+[submodule "PaperLists/Deep_Learning_Temporal_Action_Detection"]
+	path = PaperLists/Deep_Learning_Temporal_Action_Detection
+	url = https://github.com/JiaHeeeee/Deep_Learning_Temporal_Action_Detection.git
+[submodule "CVPR2018-LearningToCompare_FSL(RelationNetwork)"]
+	path = CVPR2018-LearningToCompare_FSL(RelationNetwork)
+	url = https://github.com/floodsung/LearningToCompare_FSL.git
+[submodule "PaperLists/awesome-weakly-supervised-action-localization"]
+	path = PaperLists/awesome-weakly-supervised-action-localization
+	url = https://github.com/VividLe/awesome-weakly-supervised-action-localization.git
+[submodule "PaperLists/awesome-nas-papers"]
+	path = PaperLists/awesome-nas-papers
+	url = https://github.com/jackguagua/awesome-nas-papers.git
+[submodule "VisualUtils/pytorch-cnn-visualizations"]
+	path = VisualUtils/pytorch-cnn-visualizations
+	url = https://github.com/utkuozbulak/pytorch-cnn-visualizations.git
+[submodule "VisualUtils/grad-cam-pytorch"]
+	path = VisualUtils/grad-cam-pytorch
+	url = https://github.com/kazuto1011/grad-cam-pytorch.git
