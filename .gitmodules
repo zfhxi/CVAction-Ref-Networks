@@ -37,3 +37,6 @@
 [submodule "ECCV2018-AutoLoc"]
 	path = ECCV2018-AutoLoc
 	url = https://github.com/zhengshou/AutoLoc.git
+[submodule "ECCV2020-AherNet"]
+	path = ECCV2020-AherNet
+	url = https://github.com/FuchenUSTC/AherNet.git
