@@ -34,3 +34,6 @@
 [submodule "AAAI2020-BaSNet-pytorch"]
 	path = AAAI2020-BaSNet-pytorch
 	url = https://github.com/Pilhyeon/BaSNet-pytorch.git
+[submodule "ECCV2018-AutoLoc"]
+	path = ECCV2018-AutoLoc
+	url = https://github.com/zhengshou/AutoLoc.git
